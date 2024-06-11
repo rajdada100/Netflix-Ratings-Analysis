@@ -35,9 +35,9 @@ Alternatively, view the live dashboard here. [Live Report Link](https://app.powe
 Kaggle Netflix Dataset : [Link](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) 
 
 # Technical Tools For project work used as below:
-PowerBi Desktop
-Excel
-DAX language
+     PowerBi Desktop
+     Excel
+     DAX language
 
 
 
